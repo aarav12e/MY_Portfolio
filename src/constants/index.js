@@ -225,87 +225,106 @@ export const myProjects = [
 
 export const mySocials = [
   {
-    name: "WhatsApp",
-    href: "",
-    icon: "/assets/socials/whatsApp.svg",
+    name: "GitHub",
+    href: "https://github.com/aarav12e",
+    icon: " /assets/socials/github.png",
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/aarav12e/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/aarav12f/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    date: "2011 – 2022",
+    title: "Schooling (Class 1 – Class 10)",
+    job: "Kanva Public School",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Completed Class 1 to 10 with strong academic performance.",
+      "Built foundation in Mathematics, Science, and Computer Basics.",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    date: "2022 – 2024",
+    title: "Higher Secondary (Class 11 – Class 12)",
+    job: "Harward Pre University College",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Focused on PCMB with Computer Science.",
+      "Prepared for Engineering entrance exams.",
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
+    date: "2024 – Present",
+    title: "B.Tech in Data Science",
+    job: "Vishveshwarya Group of Institutions",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+      "Currently pursuing Bachelor of Technology in Data Science.",
+      "Learning Data Analytics, Machine Learning, and Cloud Computing.",
+    ],
+  },
+   {
+    date: "2025 – 2026",
+    title: "Campus Ambassador",
+    job: "Unstop @ Vishveshwarya Group of Institutions",
+    contents: [
+      "Represented Unstop as a Campus Ambassador.",
+      "Organized events, promoted competitions, and enhanced student engagement.",
+    ],
+  },
+  {
+    date: "Aug 2025 – Sep 2025",
+    title: "Developer Intern",
+    job: "Sir HN Reliance Hospital",
+    contents: [
+      "Worked as a Developer Intern in the hospital’s tech team.",
+      "Gained hands-on experience in healthcare software development.",
     ],
   },
 ];
+
 export const reviews = [
   {
-    name: "Jack",
-    username: "@jack",
+    name: "Bhumika",
+    username: "@bhumika",
     body: "I've never seen anything like this before. It's amazing. I love it.",
     img: "https://robohash.org/jack",
   },
   {
-    name: "Jill",
-    username: "@jill",
+    name: "Khusal",
+    username: "@khusal",
     body: "I don't know what to say. I'm speechless. This is amazing.",
     img: "https://robohash.org/jill",
   },
   {
-    name: "John",
-    username: "@john",
+    name: "Ekta",
+    username: "@ekta",
     body: "I'm at a loss for words. This is amazing. I love it.",
     img: "https://robohash.org/john",
   },
   {
-    name: "Alice",
-    username: "@alice",
+    name: "Aakash Mandal",
+    username: "@aakash_mandal",
     body: "This is hands down the best thing I've experienced. Highly recommend!",
     img: "https://robohash.org/alice",
   },
   {
-    name: "Bob",
-    username: "@bob",
+    name: "Ishant",
+    username: "@ishant",
     body: "Incredible work! The attention to detail is phenomenal.",
     img: "https://robohash.org/bob",
+  },
+    {
+    name: "Tejashree",
+    username: "@tejashree",
+    body: "This exceeded all my expectations. Absolutely stunning!",
+    img: "https://robohash.org/charlie",
   },
   {
     name: "Charlie",
@@ -314,13 +333,13 @@ export const reviews = [
     img: "https://robohash.org/charlie",
   },
   {
-    name: "Dave",
-    username: "@dave",
+    name: "Archana Kumari",
+    username: "@archana_kumari",
     body: "Simply breathtaking. The best decision I've made in a while.",
     img: "https://robohash.org/dave",
   },
   {
-    name: "Eve",
+    name: "Tanya Kumari",
     username: "@eve",
     body: "So glad I found this. It has changed the game for me.",
     img: "https://robohash.org/eve",
